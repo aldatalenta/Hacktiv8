@@ -1,0 +1,3 @@
+url dataset: https://www.kaggle.com/datasets/susant4learning/holiday-package-purchase-prediction
+
+url deployment: https://huggingface.co/spaces/AldaTalenta/holiday-package-batch-018-rmt
